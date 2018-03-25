@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Not really, so I’m setting the same target.</td>
+    <td> Yes, but i encountered a different problem i have encountered in the past.</td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i’ll focus on quickening, and being able to figure  things out - purely from understanding, upping my deducing skills, and logic capability. This will improve my general understanding of coding, plus efficiency in general when it comes to work, so this is the best possible habit to work on - quickening logical assumptions and pace of work when it comes to using my bare hands - rather than just typing in coding. When typing in the code - this time I’ll be more aware of what it effects, breadboard and onscreen. AS well as learn the functions of each of the wires. ← main target.</td>
+    <td>Next time i'll focus on quickening, and being able to figure  things out - purely from understanding, upping my deducing skills, and logic capability. This will improve my general understanding of coding, plus efficiency in general when it comes to work, so this is the best possible habit to work on - quickening logical assumptions and pace of work when it comes to using my bare hands - rather than just typing in coding.</td>
   </tr>
 </table>
 
